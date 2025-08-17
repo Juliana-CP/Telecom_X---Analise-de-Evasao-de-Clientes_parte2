@@ -37,6 +37,8 @@ O desafio Telecom X_parte2 me deu a missão de desenvolver modelos preditivos ca
 
 :heavy_check_mark: **Biblioteca Seaborn**: Criar visualizações de dados com biblioteca Seaborn.
 
+:heavy_check_mark:**Machine Learning**: Validação modelos de machine learning com método hold out e validação cruzada, aplicação de métricas de desempenho, balanceamento de dados usando oversampling e undersampling, e pipeline para validar modelos de forma correta.
+
 ## Tecnologias utilizadas
 
 - ``Python``
@@ -46,6 +48,7 @@ O desafio Telecom X_parte2 me deu a missão de desenvolver modelos preditivos ca
 -``Seaborn``
 -``Sklearn``
 -``Imblearn``
+-``Machine Learning``
 - ``ChatGPT``
   
 ## Pessoas desenvolvedoras do projeto
